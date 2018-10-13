@@ -2,7 +2,7 @@ package org.csmz.river.bean;
 
 public class Book {
 
-	private int id;  //id
+	private int id;  //图书的唯一编号
 	private String bookNo;  //图书编号
 	private String bookName; //图书名称
 	
